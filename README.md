@@ -2,7 +2,9 @@ PSYCHOLOGY OF THE COMMON DAY
 
 
 
-Dr. Vincenzo Bumbalo, MD Analytical Psychotherapist – Jungian-Oriented Psychoanalyst Clinical Phenomenologist Clifton Park, New York State, USA
+Dr. Vincenzo Bumbalo, MD Analytical Psychotherapist – Jungian-Oriented Psychoanalyst Clinical Phenomenologist 
+
+Clifton Park, New York State, USA
 
 About the Author
 
@@ -169,6 +171,8 @@ Wolf, S. (2010). Meaning in life and why it matters. Princeton University Press.
 
 
 
-© 2026 Dr. Vincenzo Bumbalo. All rights reserved.
 
+© 2026 Dr. Vincenzo Bumbalo. All rights reserved.
 This work is fully protected by international copyright legislation. This work is fully protected by international copyright legislation. Any unauthorized use, reproduction, distribution, storage, or transmission is strictly forbidden and will be prosecuted under applicable law. No part of this material may be copied, archived, or disseminated without prior written authorization from the author.
+
+This repository presents Dr. Vincenzo Bumbalo’s interdisciplinary theoretical contribution to the emerging field of everyday psychological life. Drawing on phenomenology, cognitive science, habit theory, positive psychology, and clinical practice, this work argues that ordinary experience is a structured arena of meaning, identity, embodied cognition, and psychological well‑being. As stated in the article, “the common day… is the ground upon which all psychological life unfolds,” and its neglect represents a significant theoretical blind spot in contemporary psychology. Integrating concepts such as habituation, micro‑flow, narrative identity, embodied perception, and extended cognition, the theory reframes daily routines and mundane acts as active psychological processes that shape continuity, agency, and the felt texture of lived experience. Clinically, the model highlights how disruptions in ordinary engagement contribute to depression, anxiety, and existential distress, while practices such as savoring, attentional training, and environmental redesign restore the experiential richness of daily life. This extended framework advocates for a dedicated subdiscipline focused on the phenomenology and psychology of the common day, positioning ordinariness as a central domain for research, theory, and therapeutic innovation.
